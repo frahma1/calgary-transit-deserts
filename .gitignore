@@ -1,0 +1,11 @@
+stops.txt
+stop_times.txt
+trips.txt
+calendar.txt
+trips.txt
+schools.csv
+libraries.csv
+rec.csv
+*.html
+.venv/
+__pycache__/
