@@ -108,8 +108,8 @@ This answers the capability question directly, if the fastest version of a leg f
 ## Results
 
 Schools in and around downtown Calgary are the most connected, reflecting the density of the transit network there. Schools on the suburban areas, particularly in newer neighbourhoods in the south and northeast, show the weakest connectivity. Regardless, the average school has access to three or more recreational facilities, meaning kids should have their pick of third spaces. Not it is up to libraries, YMCAs and parks to provide programming to keep them engaged.
- 
-[![Map preview](/calgary_transit.png)](/calgary_kids_transit_ranked.html)
+
+[![Map preview](./calgary_transit.png)](/calgary_kids_transit_ranked.html)
 ---
 
 ## Skills Demonstrated
